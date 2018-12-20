@@ -21,3 +21,7 @@ param6=default value for param 6
 ;Comment about param 10
 param10=
 ```
+
+## License
+
+Licensed under the [MIT](LICENSE.txt) License.
